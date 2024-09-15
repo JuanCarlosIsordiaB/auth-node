@@ -4,10 +4,12 @@
 
 
 .env
-
+/mongo
+/postgres
 mongo/
 postgres/
 node_modules/
 dist/
 build/
 coverage/
+docker-compose.yml
